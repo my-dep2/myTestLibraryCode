@@ -6,11 +6,11 @@
 @implementation Example
 
 - (BOOL)returnsTrue {
-    return YES;
+    return NO;
 }
 
 - (BOOL)returnsFalse {
-    return NO;
+    return YES;
 }
 
 @end
